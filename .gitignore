@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/build/
+/build/js/packages/c3_lr2_2/kotlin/
