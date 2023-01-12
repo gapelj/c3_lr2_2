@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="c3_lr2_2-1.0-SNAPSHOT">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="c3_lr2_2-1.0-SNAPSHOT.jar">
+      <element id="module-output" name="c3_lr2_2.main" />
+    </root>
+  </artifact>
+</component>
